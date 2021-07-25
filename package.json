@@ -1,0 +1,16 @@
+{
+  "name": "testes-graphql",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm ."
+  },
+  "repository": "https://github.com/killvorak2/testes-graphql.git",
+  "author": "Marcelo <marcelo.ceribelli@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
